@@ -37,4 +37,6 @@ DELAY 100
 ENTER
 STRING start CW.vbs && exit
 ENTER
+
+REM It may be necessary to start the script several times so that it would work
 </pre></code>
